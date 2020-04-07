@@ -34,8 +34,8 @@ function MSALConfigFactory(): Configuration {
       clientId: '95e3fbf7-efbe-407e-aa4a-248604ec7027',
       authority: "https://msapiuat.b2clogin.com/tfp/msapiuat.onmicrosoft.com/B2C_1_ISGDemoApplicationSignin",
       validateAuthority: false,
-      redirectUri: "https://namithakrshn.github.io/angular9-sample-app/",
-      postLogoutRedirectUri: "https://namithakrshn.github.io/angular9-sample-app/",
+      redirectUri: "https://namithakrshn.github.io/angular-sample-app/",
+      postLogoutRedirectUri: "https://namithakrshn.github.io/angular-sample-app/",
       navigateToLoginRequestUrl: true,
     },
     cache: {
